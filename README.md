@@ -11,7 +11,7 @@ Ensure you have the following Python libraries installed before running any of t
 pip install pdfplumber openpyxl
 ```
 
-## Types of Scripts
+## Types of Scripts (Advanced_Extraction Folder)
 
 ### Script 1: Extract Tables By Section Header
 - Reads section headers from a text file.
